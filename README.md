@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tanish</h1>
 <h3 align="center">A incoming freshmen at University of Toronto for Engineering Science</h3>
 
-- 👨‍💻 My personal website [tanish.ca](tanish.ca)
+- 👨‍💻 My personal website (tanish.ca)
 
 - 📫 How to reach me **tanishsharma.krish@gmail.com**
 
