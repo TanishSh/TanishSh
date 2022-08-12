@@ -3,7 +3,7 @@
 
 - 👨‍💻 My personal website [https://www.tanish.ca/](https://www.tanish.ca/)
 
-- 📫 How to reach me **tanishsharma.krish@gmail.com**
+- 👀 I’m interested in Machine learning, Algorithms, and Full Stack Web Development
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
