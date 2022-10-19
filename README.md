@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tanish</h1>
-<div align="center">An incoming freshmen at <b>University of Toronto</b> for Engineering Science</div>
+<div align="center">An freshmen at <b>University of Toronto</b> for Engineering Science</div>
 
 - 👨‍💻 My personal website [https://www.tanish.ca/](https://www.tanish.ca/)
 
