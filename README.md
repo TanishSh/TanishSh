@@ -2,5 +2,5 @@
 
 - 👀 I’m interested in Machine learning, Algorithms, UI, UX and Full Stack Web Development
 
-- 🌐 Personal Website: https://tanish.ca
+- 🌐 Learn more about me and my projects: https://tanish.ca
 
